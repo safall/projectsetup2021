@@ -1,4 +1,4 @@
-package com.safal.daggersetup
+package com.safal.daggersetup.di
 
 import dagger.Module
 

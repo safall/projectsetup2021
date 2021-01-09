@@ -1,4 +1,4 @@
-package com.safal.daggersetup.viewmodel
+package com.safal.daggersetup.di.viewmodel
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

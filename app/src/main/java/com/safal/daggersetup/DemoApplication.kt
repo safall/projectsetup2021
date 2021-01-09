@@ -1,6 +1,8 @@
 package com.safal.daggersetup
 
 import android.app.Application
+import com.safal.daggersetup.di.AppComponent
+import com.safal.daggersetup.di.DaggerAppComponent
 
 class DemoApplication : Application() {
 
@@ -11,3 +13,4 @@ class DemoApplication : Application() {
         component = DaggerAppComponent.create()
     }
 }
+

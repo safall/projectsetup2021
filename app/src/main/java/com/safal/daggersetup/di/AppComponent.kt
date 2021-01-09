@@ -1,7 +1,7 @@
-package com.safal.daggersetup
+package com.safal.daggersetup.di
 
+import com.safal.daggersetup.di.viewmodel.ViewModelModule
 import com.safal.daggersetup.ui.main.MainFragment
-import com.safal.daggersetup.viewmodel.ViewModelModule
 import dagger.Component
 import javax.inject.Singleton
 

@@ -1,8 +1,8 @@
-package com.safal.daggersetup
+package com.safal.daggersetup.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.safal.daggersetup.ui.main.MainFragment
+import com.safal.daggersetup.R
 
 class MainActivity : AppCompatActivity() {
 
